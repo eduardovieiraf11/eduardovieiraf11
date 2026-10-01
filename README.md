@@ -22,6 +22,18 @@ Key Account Manager no mercado financeiro brasileiro, com foco em derivativos li
 - Python aplicado a finanças
 - Certificações ANBIMA e ANCORD
 
+## Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## Contato
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/eduardovieiraf11)
+
 ---
 
 > ⚠️ **Aviso:** o conteúdo dos meus repositórios tem finalidade exclusivamente educacional e não constitui recomendação de investimento. As opiniões são pessoais e não representam a posição de nenhuma instituição.
